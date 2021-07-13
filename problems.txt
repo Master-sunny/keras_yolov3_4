@@ -1,0 +1,9 @@
+yolo.py中第100行为什么是255？  print(self.yolo_model.layers[-1].output_shape[-1]) -->255
+yolo.py中第143行boxes、scores和classess是什么？形状是什么样？
+yolo.py中第159行为什么要把尺寸大小倒过来？
+yolo.py中第179行为什么图片的长宽位置要调换一下
+yolo.py中第191行的thickness是什么？
+yolo.py中第
+yolo.py中第
+yolo.py中第
+
